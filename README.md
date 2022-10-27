@@ -1,27 +1,26 @@
 # CI Codemagic flutter-expert-project-main1 
-    Preparing build machine             31s
-    Fetching app sources                1s
-    Installing dependencies             34s
-    Building Android                    1m 27s
-    Building iOS                        1m 39s
-    Publishing                          4s
+    Preparing build machine             41s
+    Fetching app sources                2s
+    Installing dependencies             46s
+    Building Android                    1m 20s
+    Building iOS                        1m 34s
+    Publishing                          8s
     Cleaning up                         < 1s
 
 # Build overview
-    ID          : 6358b332123c0eef15b190ec
-    Index       : 6
+    ID          : 635a7ea66520fbea0bb45707
+    Index       : 5
     Status      : finished
     Workflow    : Default Workflow
-    Started     : a day ago Oct 27th, 2022 at 11:12 WIB
-    Duration    : 4m 18s
+    Started     : a day ago Oct 27th, 2022 at 20:01 WIB
+    Duration    : 4m 32s
     Machine     : Mac mini M1
     Branch      : master
-    Commit      : 7e4bee6
+    Commit      : 90ab88b
 
 # Artifacts
-    app-release.aab [20.04 MB]
-    mapping.txt [766.07 KB]
-    Runner.app.zip [70.40 MB]
+    app-debug.aab [185.70 MB]
+    Runner.app.zip [91.85 MB]
 
 # Current configuration
     Flutter channel: default
@@ -29,7 +28,8 @@
     Xcode version: 14.0.1
     Build for: Android & iOS
     
-Link: : https://codemagic.io/app/6358ac1f123c0e33df4ea2fd/build/6358b332123c0eef15b190ec
+https://codemagic.io/app/635a702e6520fb0c6301515f/build/635a7ea66520fbea0bb45707
+![image](https://user-images.githubusercontent.com/111186324/198293649-31daec62-3d57-4d43-9f7d-148dfd858012.png)
 
 # a199-flutter-expert-project
 
