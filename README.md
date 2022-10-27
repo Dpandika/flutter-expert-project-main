@@ -7,6 +7,28 @@
     Publishing                          4s
     Cleaning up                         < 1s
 
+Build overview
+    ID          : 6358b332123c0eef15b190ec
+    Index       : 6
+    Status      : finished
+    Workflow    : Default Workflow
+    Started     : a day ago Oct 27th, 2022 at 11:12 WIB
+    Duration    : 4m 18s
+    Machine     : Mac mini M1
+    Branch      : master
+    Commit      : 7e4bee6
+
+Artifacts
+    app-release.aab [20.04 MB]
+    mapping.txt [766.07 KB]
+    Runner.app.zip [70.40 MB]
+
+Current configuration
+    Flutter channel: default
+    Mode: release
+    Xcode version: 14.0.1
+    Build for: Android & iOS
+
 # a199-flutter-expert-project
 
 Repository ini merupakan starter project submission kelas Flutter Expert Dicoding Indonesia.
