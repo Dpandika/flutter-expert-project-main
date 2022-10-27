@@ -7,7 +7,7 @@
     Publishing                          4s
     Cleaning up                         < 1s
 
-Build overview
+# Build overview
     ID          : 6358b332123c0eef15b190ec
     Index       : 6
     Status      : finished
@@ -18,12 +18,12 @@ Build overview
     Branch      : master
     Commit      : 7e4bee6
 
-Artifacts
+# Artifacts
     app-release.aab [20.04 MB]
     mapping.txt [766.07 KB]
     Runner.app.zip [70.40 MB]
 
-Current configuration
+# Current configuration
     Flutter channel: default
     Mode: release
     Xcode version: 14.0.1
