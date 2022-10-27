@@ -1,3 +1,12 @@
+# CI Codemagic flutter-expert-project-main1
+    Preparing build machine             31s
+    Fetching app sources                1s
+    Installing dependencies             34s
+    Building Android                    1m 27s
+    Building iOS                        1m 39s
+    Publishing                          4s
+    Cleaning up                         < 1s
+
 # a199-flutter-expert-project
 
 Repository ini merupakan starter project submission kelas Flutter Expert Dicoding Indonesia.
