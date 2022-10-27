@@ -1,4 +1,4 @@
-# CI Codemagic flutter-expert-project-main1
+# CI Codemagic flutter-expert-project-main1 : https://codemagic.io/app/6358ac1f123c0e33df4ea2fd/build/6358b332123c0eef15b190ec
     Preparing build machine             31s
     Fetching app sources                1s
     Installing dependencies             34s
