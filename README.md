@@ -1,5 +1,6 @@
-# CI Codemagic flutter-expert-project-main1 
-[![Codemagic build status](https://api.codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/status_badge.svg)](https://codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/latest_build)
+# Stataus CodeMagic
+    [![Codemagic build status](https://api.codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/status_badge.svg)](https://codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/latest_build)
+# CI Codemagic flutter-expert-project-main
     Preparing build machine             41s
     Fetching app sources                2s
     Installing dependencies             46s
