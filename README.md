@@ -1,5 +1,5 @@
 # CI Codemagic flutter-expert-project-main1 
-    https://api.codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/status_badge.svg
+[![Codemagic build status](https://api.codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/status_badge.svg)](https://codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/latest_build)
     Preparing build machine             41s
     Fetching app sources                2s
     Installing dependencies             46s
@@ -30,6 +30,7 @@
     Build for: Android & iOS
     
 https://codemagic.io/app/635a702e6520fb0c6301515f/build/635a7ea66520fbea0bb45707
+[![Codemagic build status](https://api.codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/status_badge.svg)](https://codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/latest_build)
 ![image](https://user-images.githubusercontent.com/111186324/198293649-31daec62-3d57-4d43-9f7d-148dfd858012.png)
 
 # a199-flutter-expert-project
