@@ -1,4 +1,5 @@
 # CI Codemagic flutter-expert-project-main1 
+https://api.codemagic.io/apps/6358ac1f123c0e33df4ea2fd/6358ac1f123c0e33df4ea2fc/status_badge.svg
     Preparing build machine             41s
     Fetching app sources                2s
     Installing dependencies             46s
